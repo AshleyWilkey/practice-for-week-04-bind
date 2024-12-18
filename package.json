@@ -1,0 +1,13 @@
+{
+  "name": "practice-for-week-04-bind",
+  "version": "1.0.0",
+  "description": "In this practice, you will practice identifying when to use `bind` and how to use it.",
+  "main": "employee.js",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
